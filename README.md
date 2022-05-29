@@ -1,2 +1,6 @@
+# Flight_price_prediction
+# Flight-fare-prediction
 # flight-price-prediction
-To predicting flight price using machine learning algorithms and creating web page using flask and CSS.
+# flight-price-prediction
+# flight-price
+# flight-price
